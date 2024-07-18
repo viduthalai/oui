@@ -10,6 +10,38 @@
 
 ### 📈 Features/Enhancements
 
+- Introduce compressed appearance for OuiSuperDatePicker ([#1307](https://github.com/opensearch-project/oui/pull/1307))
+
+### 🐛 Bug Fixes
+
+- Fix next reset for code blocks and super update button icon ([#1306])(https://github.com/opensearch-project/oui/pull/1306)
+
+### 🚞 Infrastructure
+
+### 📝 Documentation
+
+### 🛠 Maintenance
+
+- Add @virajsanghvi as a maintainer ([#1309])(https://github.com/opensearch-project/oui/pull/1309)
+
+### 🪛 Refactoring
+
+### 🔩 Tests
+
+
+## [`1.7.0`](https://github.com/opensearch-project/oui/tree/1.7.0)
+
+### Deprecations
+
+### 🛡 Security
+
+### 📈 Features/Enhancements
+
+- Make Super Update Button secondary instead of primary ([#1286](https://github.com/opensearch-project/oui/pull/1286))
+- Use faster animations for modals, popovers, and tooltips ([#1282](https://github.com/opensearch-project/oui/pull/1282))
+- Use small font size consistently in buttons and button groups ([#1281](https://github.com/opensearch-project/oui/pull/1281))
+- Adjust popover and context menu title styles and tooltip padding ([#1283](https://github.com/opensearch-project/oui/pull/1283))
+- Remove Button translations and add inset shadow on active ([#1285](https://github.com/opensearch-project/oui/pull/1285))
 - [OuiFilterGroup] Allow popovers to size to content ([#1280](https://github.com/opensearch-project/oui/pull/1280))
 - Add compressed form, color-picker, and combo-box internal components ([#1301](https://github.com/opensearch-project/oui/pull/1301))
 - Add small button and filter-button internal components ([#1301](https://github.com/opensearch-project/oui/pull/1301))
@@ -20,13 +52,12 @@
 
 ### 📝 Documentation
 
-- Add instructions on how to test with OpenSearch Dashboards ([1279](https://github.com/opensearch-project/oui/pull/1279))
+- Add Explanation for external Prop in OuiLink ([#1182](https://github.com/opensearch-project/oui/pull/1182))
 
 ### 🛠 Maintenance
 
-### 🪛 Refactoring
+- Clean up unused runtime and dev dependencies ([#1135](https://github.com/opensearch-project/oui/pull/1135))
 
-### 🔩 Tests
 
 ## [`1.6.0`](https://github.com/opensearch-project/oui/tree/1.6.0)
 
